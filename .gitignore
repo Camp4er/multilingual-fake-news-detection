@@ -1,0 +1,16 @@
+﻿venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.kaggle/
+data/
+results/
+*.joblib
+*.safetensors
+*.pt
+*.pth
+*.bin
+.cache/
